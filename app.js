@@ -6,7 +6,7 @@ let dominios = () => {
     
     for (i = 0; i < parte1.length; i++) {
         for (j = 0; j < parte2.length; j++) {
-            for (k = 0; k < parte2.length; k++) {
+            for (k = 0; k < parte3.length; k++) {
                 console.log(parte1[i]+ parte2[j]+ parte3[k]+".com")
             }
         }
