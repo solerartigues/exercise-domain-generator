@@ -13,5 +13,5 @@ let dominios = () => {
     }
  }
 
- console.log(dominios())
+ dominios()
  
